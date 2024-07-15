@@ -12,3 +12,5 @@ def birthday_generator(age):
     return f"You just had a birthday, you are now {new_age} years old"
 print(birthday_generator(16))
 print(birthday_generator(29))
+
+print("the end")
